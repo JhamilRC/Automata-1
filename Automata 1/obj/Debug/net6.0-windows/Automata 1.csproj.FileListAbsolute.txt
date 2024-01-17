@@ -1,0 +1,16 @@
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\bin\Debug\net6.0-windows\Automata 1.exe
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\bin\Debug\net6.0-windows\Automata 1.deps.json
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\bin\Debug\net6.0-windows\Automata 1.runtimeconfig.json
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\bin\Debug\net6.0-windows\Automata 1.dll
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\bin\Debug\net6.0-windows\Automata 1.pdb
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata_1.Form1.resources
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.csproj.GenerateResource.cache
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.GeneratedMSBuildEditorConfig.editorconfig
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.AssemblyInfoInputs.cache
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.AssemblyInfo.cs
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.csproj.CoreCompileInputs.cache
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.dll
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\refint\Automata 1.dll
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.pdb
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\Automata 1.genruntimeconfig.cache
+J:\tarea\TAREA\Sistemas digitales 2\Automata 1\Automata 1\obj\Debug\net6.0-windows\ref\Automata 1.dll
